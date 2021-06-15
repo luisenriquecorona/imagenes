@@ -1,0 +1,3 @@
+# imagenes
+
+PNG,GIF,JPG...
